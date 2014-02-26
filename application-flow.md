@@ -1,5 +1,7 @@
 # Application Flow (HTTP)
 
+[Draft 2/26/2014 11:53:50 PM]
+
  1. Apache rewrite to `public/index.php`, or serve the file if it exists (images, css, etc).
  1. Check for `down` file (down for maintenance flag) and display maintenance file (`maintenance.php`) if applicable.
  1. Include the application bootstrap (`include.php`).

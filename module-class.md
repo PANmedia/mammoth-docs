@@ -1,5 +1,7 @@
 # Module Class
 
+[Draft 2/26/2014 11:53:37 PM] 
+
 The module class is responsible for loading module specific configuration, including:
 
  - Plugins
