@@ -55,7 +55,7 @@
 
 ### classes/MammothExample/System.php
 
-This is the applications module configuration file. It loads any required routes, plugins, and other registries. For more information see the [module class](module-class) documentation.
+This is the applications module configuration file. It loads any required routes, plugins, and other registries. For more information see the [module class](module-class.md) documentation.
 
 ## functions
 
