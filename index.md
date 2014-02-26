@@ -3,14 +3,14 @@
 [Draft 2/25/2014 11:08:48 PM]
 
  1. Quick Start
-   1. [Project Layout](project-layout)
+   1. [Project Layout](project-layout.md)
    1. Quick Start/Base Application 
    1. Composer
    1. Application Flow
  1. Application Modules
-   1. [CMS](module-cms)
-   1. [EAV](module-eav)
-   1. [Contact](module-contact) 
+   1. [CMS](module-cms.md)
+   1. [EAV](module-eav.md)
+   1. [Contact](module-contact.md) 
    1. Form Builder
    1. Article
    1. Authentication/Authorisation 
