@@ -6,7 +6,6 @@
    1. [Project Layout](project-layout.md)
    1. Quick Start/Base Application 
    1. Composer
-   1. Application Flow
  1. Application Modules
    1. [CMS](module-cms.md)
    1. [EAV](module-eav.md)
@@ -19,7 +18,7 @@
    1. Common
    1. Plugin
    1. Registry
-   1. HTTP
+   1. [HTTP](module-http.md)
    1. Routing
    1. Asset Management
    1. Assigning Page Layouts
@@ -77,5 +76,9 @@
    1. Tree List
    1. Visor
  1. How Mammoth Works
-   1. Request/Application Flow
-   2. 
+   1. [Application Flow](application-flow.md) [Request Flow](request-flow.md)
+   1. [Application/module class](module-class.md)
+
+### Todo
+
+Merge application flow and request flow.
